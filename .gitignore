@@ -1,4 +1,4 @@
-*.auto.tfvars
 .terraform
 terraform.tfstate
+secret.*
 *.backup
